@@ -19,7 +19,50 @@ header{
     margin-right:60px ;
 }
 
-.logo{
-    vertical-align: middle;
-    margin-right: 60px;
+.my26{
+    width: 50px;
+    height: 50px;
+    background-color:#5012D5 ;
+    font-size: 40px;
+    color: #84FF81;
+    padding: 10px;
+}
+
+.articleimg{
+    margin-right: 66px;
+}
+
+.articleimg{
+    margin-right: 66px;
+}
+
+.divv{
+    width: 780px;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+}
+
+maisi{
+    font-family: 'FiraGO';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #8D81FF;
+}
+
+.web{
+    font-family: 'FiraGO';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #4E6FAE;
+}
+
+.imgg{
+    margin-right: 40px;
 }
