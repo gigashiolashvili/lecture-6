@@ -1,0 +1,25 @@
+a{
+    font-family: 'FiraGO';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+color: #4E6FAE;
+}
+
+body{
+     padding: 54px 51px;
+}
+
+header{
+    margin-bottom: 54px;
+}
+
+.loggo{
+    margin-right:60px ;
+}
+
+.logo{
+    vertical-align: middle;
+    margin-right: 60px;
+}
